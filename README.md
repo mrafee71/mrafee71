@@ -6,7 +6,6 @@ I'm a full-stack web developer passionate about building modern, responsive, and
 
 ### 🚀 About Me
 
-- 🔭 Currently working on full-stack web applications using React and Django.
 - 🌱 Learning more about scalable backend architectures and cloud deployment.
 - 👯 Open to collaborating on real-world projects, especially in web development or open source.
 - 💬 Ask me about anything related to JavaScript frameworks, Python backends, or RESTful APIs.
