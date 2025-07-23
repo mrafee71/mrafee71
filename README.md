@@ -9,7 +9,7 @@ I'm a full-stack web developer passionate about building modern, responsive, and
 - 🌱 Learning more about scalable backend architectures and cloud deployment.
 - 👯 Open to collaborating on real-world projects, especially in web development or open source.
 - 💬 Ask me about anything related to JavaScript frameworks, Python backends, or RESTful APIs.
-- 📫 How to reach me: [muhammadrafeequeph@gmail.com] • [LinkedIn](https://www.linkedin.com/in/muhammad-rafeeque-p-h-664b27224) • [Portfolio](https://rafeeque.vercel.app)
+- 📫 How to reach me: muhammadrafeequeph@gmail.com • [LinkedIn](https://www.linkedin.com/in/muhammad-rafeeque-p-h-664b27224) • [Portfolio](https://rafeeque.vercel.app)
 - ⚡ Fun fact: I love solving UI/UX puzzles and making beautiful, functional interfaces.
 
 ---
